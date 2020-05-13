@@ -1,6 +1,7 @@
   // Başkalarının sitesinde kullanmayınız kendi sitenize saldırıp test edip önlemler üretmeyi deneyiniz.<br><br>
   
   Not: Bu scripti eklediğiniz size ait web sitesine giren her kullanıcı hedef siteye saldırır, yani sitenizde şuanda 1000 online olduğunu var sayarsak, karşıdaki sunucu 16gb lık bir ram ile muhtemelen cevap veremeyecek hale gelecek ve sitesi çalışmayacaktır. <br><br>
+  Tercihiniz aşağıdaki 3. yöntem önerilir. !!! <br>
   
   // şimdilik kullanım dışı, image file atak <br><br>
   //ImageUrlToBase64('https://www.example-site.com/index.php?p=','https://your-image-url.com/android-chrome-512x512.png','base64'); // base64 file<br><br>
